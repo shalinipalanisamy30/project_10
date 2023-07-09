@@ -1,0 +1,105 @@
+.face{
+    height: 200px;
+    width: 200px;
+    background-color:pink;
+    border-radius: 50%;
+    box-shadow: 0px 0px 1px 1px black ;
+    position: relative ;
+
+}
+.container{
+        margin-left: 400px;
+        padding: 100px;
+        top: 500px;
+    
+
+}
+    
+.righteye{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+    position:absolute;
+    left: 30px;
+    top: 50px;
+
+}
+.lefteye{
+    width: 50px;
+    height: 50px;
+    background-color:white;
+    border-radius: 50%;
+    position:absolute;
+    left: 130px;
+    top: 50px;
+}
+
+.rball{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+.lball{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+.mouth{
+    height: 50px;
+    width: 90px;
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+    top: 120px;
+    left:60px;
+    border-radius: 30px 31px 30px 31px;
+    border: 1px solid black;
+}
+.one{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.two{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 10px;
+    left: 60px;
+}
+
+.rear{
+     width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 20px 20px 20px 20px;
+    background-color:  pink;
+    position: absolute;
+}
+.lear{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    margin-left: 120px;
+    margin-top: 2px;
+    border-radius: 20px 20px 20px 20px;
+    background-color:  pink;
+    position: absolute;
+    
+} 
